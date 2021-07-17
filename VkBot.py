@@ -19,13 +19,15 @@ class VkBot:
         self.vk_token.method("messages.send", {"user_id": user_id, "message": text, "random_id": 0})
 
     def answer(self, user_id, text, keyboard):
-        self.vk_token.method("messages.send", {"user_id": user_id, "message": text, "random_id": 0, 'keyboard': keyboard})
+        self.vk_token.method("messages.send",
+                             {"user_id": user_id, "message": text, "random_id": 0, 'keyboard': keyboard})
 
     def add_user(self, user_id, time):
         if user_id not in self.all_users:
             self.idtoin[user_id] = len(self.idtoin)
             self.all_users.add(user_id)
-            new_user = pd.DataFrame([[user_id, 0, 'start', 0, 0, 0]], columns=['id', 'msg_count', 'user_stage', 'stage game', 'user_page', 'last_time'])
+            new_user = pd.DataFrame([[user_id, 0, 'start', 0, 0, 0]],
+                                    columns=['id', 'msg_count', 'user_stage', 'stage game', 'user_page', 'last_time'])
             self.userdata = pd.concat([self.userdata, new_user], ignore_index=True)
             return True
         return False
@@ -70,7 +72,8 @@ class VkBot:
     def league_select_page(self, user_id, text):
         data = pd.read_csv("keyboards.csv")
         if text not in data[(data.type == 'games') & (data.page == 1)]['games_list'].iloc[0].split('*'):
-            self.answer_wo_kb(user_id, "Такой игры нет или же введена неправильная команда. Лучше воспользуйся кнопками")
+            self.answer_wo_kb(user_id,
+                              "Такой игры нет или же введена неправильная команда. Лучше воспользуйся кнопками")
         elif data[(data.type == 'leagues') & (data.page == 1) & (data.game == text)]['games_list'].iloc[0] == 'empty':
             self.answer_wo_kb(user_id, "К сожалению, турниров по данной игре нет. Попробуй позже")
         else:
@@ -99,8 +102,11 @@ class VkBot:
     def show_timetable(self, user_id, text):
         data = pd.read_csv("keyboards.csv")
         data1 = pd.read_csv("GandT_DB.csv")
-        if text not in data[(data.type == 'leagues') & (data.game == self.userdata.loc[self.idtoin[user_id], 'stage_game'])]['games_list'].iloc[0].split('*'):
-            self.answer_wo_kb(user_id, "Такого турнира нет или же введена неправильная команда. Лучше воспользуйся кнопками")
+        if text not in data[
+            (data.type == 'leagues') & (data.game == self.userdata.loc[self.idtoin[user_id], 'stage_game'])
+        ]['games_list'].iloc[0].split('*'):
+            self.answer_wo_kb(user_id,
+                              "Такого турнира нет или же введена неправильная команда. Лучше воспользуйся кнопками")
         else:
             self.userdata.loc[self.idtoin[user_id], 'user_stage'] = 'final'
             ans = 'Расписание ' + text + ':\n'
@@ -125,8 +131,8 @@ class VkBot:
                     self.game_select_page(user_id)
                 elif text == "Статистика":
                     self.answer_wo_kb(user_id, "Всего пользователей: " + str(len(self.userdata.loc[:, 'id'])) + '\n' +
-                                "Всего запросов: " + str(sum(self.userdata.loc[:, 'msg_count'])) + '\n' +
-                                "Ваших запросов: " + str(self.userdata.loc[self.idtoin[user_id], 'msg_count']))
+                                      "Всего запросов: " + str(sum(self.userdata.loc[:, 'msg_count'])) + '\n' +
+                                      "Ваших запросов: " + str(self.userdata.loc[self.idtoin[user_id], 'msg_count']))
                 elif user_location == 'main' and (text != "Игры" or text != "Статистика"):
                     self.answer_wo_kb(user_id, "Введена неправильная команда. Используй кнопки, пожалуйста")
                 elif text == "Следующая страница" and user_location == 'game_select':

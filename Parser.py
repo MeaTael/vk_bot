@@ -102,13 +102,9 @@ def update():
         new_data = pd.concat([new_data, new_league], ignore_index=True)
         matches = parser.find_matches(leagues_info[league])
         for match in matches:
-            new_match = pd.DataFrame([['match', league.split('.')[0], ' '.join(' '.join(league.split('.')[1:]).split()[:-1]),
+            new_match = pd.DataFrame([['match', league.split('.')[0],
+                                       ' '.join(' '.join(league.split('.')[1:]).split()[:-1]),
                                        0, match, 0]],
                                      columns=['type', 'game_name', 'league_name', 'matches_count', 'match_name', 'num'])
             new_data = pd.concat([new_data, new_match], ignore_index=True)
     new_data.to_csv('GandT_DB.csv', encoding='utf-8', index=False)
-
-#while True:
-   # update()
-   # print('READY, sleeping')
-  #  t.sleep(600)

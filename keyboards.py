@@ -24,7 +24,9 @@ def get_keyboard(buttons_list):
 
 
 main_keyboard = get_keyboard([[get_but('Игры', 'positive')], [get_but('Статистика', 'positive')]])
-final_keyboard = get_keyboard([[get_but("Вернуться к выбору игры", 'primary')], [get_but('Вернуться к выбору турнира', 'secondary')], [get_but('Вернуться в основное меню', 'negative')]])
+final_keyboard = get_keyboard([[get_but("Вернуться к выбору игры", 'primary')],
+                               [get_but('Вернуться к выбору турнира', 'secondary')],
+                               [get_but('Вернуться в основное меню', 'negative')]])
 
 
 def get_games_keyboard():
@@ -106,13 +108,13 @@ def get_leagues_keyboard(games_list):
     return games_dict, games_dict_ls
 
 
-
 def update_keyboards():
     new_keyboard_base = pd.DataFrame(columns=['type', 'game', 'page', 'max_pages', 'code', 'games_list'])
     page_counter = 1
     keyboard_list, games_list = get_games_keyboard()
     for keyboard in keyboard_list:
-        new_keyboard = pd.DataFrame([['games', 0, page_counter, len(keyboard_list), keyboard, '*'.join(games_list)]], columns=['type', 'game', 'page', 'max_pages', 'code', 'games_list'])
+        new_keyboard = pd.DataFrame([['games', 0, page_counter, len(keyboard_list), keyboard, '*'.join(games_list)]],
+                                    columns=['type', 'game', 'page', 'max_pages', 'code', 'games_list'])
         new_keyboard_base = pd.concat([new_keyboard_base, new_keyboard], ignore_index=True)
         page_counter += 1
     keyboard_dict, leagues_dict = get_leagues_keyboard(games_list)
@@ -123,7 +125,8 @@ def update_keyboards():
         if leagues_list == '':
             leagues_list = 'empty'
         for keyboard in keyboard_list:
-            new_keyboard = pd.DataFrame([['leagues', key, page_counter, len(keyboard_list), keyboard, leagues_list]], columns=['type', 'game', 'page', 'max_pages', 'code', 'games_list'])
+            new_keyboard = pd.DataFrame([['leagues', key, page_counter, len(keyboard_list), keyboard, leagues_list]],
+                                        columns=['type', 'game', 'page', 'max_pages', 'code', 'games_list'])
             new_keyboard_base = pd.concat([new_keyboard_base, new_keyboard], ignore_index=True)
             page_counter += 1
     new_keyboard_base.to_csv("keyboards.csv", encoding='utf-8', index=False)

@@ -4,10 +4,11 @@ game,Call of Duty,0,0,0,2
 game,Dota 2,0,0,0,3
 game,League of Legends,0,0,0,4
 game,Overwatch,0,0,0,5
-game,Rainbow Six,0,0,0,6
-game,StarCraft II,0,0,0,7
-game,Valorant,0,0,0,8
-game,WarCraft III,0,0,0,9
+game,Quake Champions,0,0,0,6
+game,Rainbow Six,0,0,0,7
+game,StarCraft II,0,0,0,8
+game,Valorant,0,0,0,9
+game,WarCraft III,0,0,0,10
 league,CS:GO,Alpha Pro League 2021,1 матч,0,1
 match,CS:GO,Alpha Pro League 2021,0,Wygers Argentina-River Plate Gaming | 23.07 1:00,0
 league,CS:GO,CBCS Elite League Season 2,6 матчей,0,2
@@ -17,22 +18,20 @@ match,CS:GO,CBCS Elite League Season 2,0,INTZ eSports-SWS Gaming | 22.07 0:30,0
 match,CS:GO,CBCS Elite League Season 2,0,Meta Gaming-Black Dragons | 22.07 1:40,0
 match,CS:GO,CBCS Elite League Season 2,0,Bravos-Furious | 22.07 2:50,0
 match,CS:GO,CBCS Elite League Season 2,0,Santos-DETONA | 22.07 2:50,0
-league,CS:GO,ESEA Main Season 37 Europe,1 матч,0,3
-match,CS:GO,ESEA Main Season 37 Europe,0,A U R A-BRANDBERGEN SHOOTERS | 17.07 17:00,0
-league,CS:GO,ESEA Season 37 Intermediate Division Europe,1 матч,0,4
+league,CS:GO,ESEA Season 37 Intermediate Division Europe,1 матч,0,3
 match,CS:GO,ESEA Season 37 Intermediate Division Europe,0,Endangered Esports-AVE | 18.07 19:00,0
-league,CS:GO,Elite Series Season 1: Summer Split,2 матча,0,5
+league,CS:GO,Elite Series Season 1: Summer Split,2 матча,0,4
 match,CS:GO,Elite Series Season 1: Summer Split,0,LowLandLions-Sector One | 22.07 20:00,0
 match,CS:GO,Elite Series Season 1: Summer Split,0,mCon Esports Rotterdam-JoinTheForce | 22.07 22:00,0
+league,CS:GO,Esport Adria Prvenstvo Season 5,1 матч,0,5
+match,CS:GO,Esport Adria Prvenstvo Season 5,0,Anlaki-Monarchy | 18.07 11:00,0
 league,CS:GO,European Development Championship Season 5: Closed Qualifier,2 матча,0,6
-match,CS:GO,European Development Championship Season 5: Closed Qualifier,0,EC Brugge-PACT | 17.07 17:00,0
-match,CS:GO,European Development Championship Season 5: Closed Qualifier,0,Entropiq Prague-bankaPEPSI | 17.07 20:00,0
-league,CS:GO,Gamers Club Liga Serie A,2 матча,0,7
-match,CS:GO,Gamers Club Liga Serie A,0,DETONA-INTZ eSports | 18.07 0:00,0
+match,CS:GO,European Development Championship Season 5: Closed Qualifier,0,Team Finest-Infinite Gaming | 18.07 14:00,0
+match,CS:GO,European Development Championship Season 5: Closed Qualifier,0,PACT-bankaPEPSI | 18.07 17:00,0
+league,CS:GO,Gamers Club Liga Serie A,1 матч,0,7
 match,CS:GO,Gamers Club Liga Serie A,0,Bravos-Paqueta | 18.07 3:00,0
-league,CS:GO,IEM Cologne,2 матча,0,8
-match,CS:GO,IEM Cologne,0,G2 Esports-Astralis | 17.07 17:00,0
-match,CS:GO,IEM Cologne,0,Natus Vincere-FaZe Clan | 17.07 20:15,0
+league,CS:GO,IEM Cologne,1 матч,0,8
+match,CS:GO,IEM Cologne,0,G2 Esports-Natus Vincere | 18.07 17:00,0
 league,CS:GO,LPL Pro League,4 матча,0,9
 match,CS:GO,LPL Pro League,0,Animal Squad-Fury Gaming | 20.07 11:00,0
 match,CS:GO,LPL Pro League,0,Bizarre-Warriors | 20.07 13:30,0
@@ -45,16 +44,11 @@ match,CS:GO,LVP Unity League Argentina Clausura,0,Stone Movistar-Flow Nocturns G
 match,CS:GO,LVP Unity League Argentina Clausura,0,Wygers Argentina-9z Academy | 21.07 0:00,0
 match,CS:GO,LVP Unity League Argentina Clausura,0,Atrapa2 Gaming-Malvinas | 21.07 1:15,0
 match,CS:GO,LVP Unity League Argentina Clausura,0,River Plate Gaming-Furious | 21.07 3:45,0
-league,CS:GO,La Liga Season 4: Sur Pro Division - Apertura,4 матча,0,11
-match,CS:GO,La Liga Season 4: Sur Pro Division - Apertura,0,Durany-Meta Gaming | 18.07 0:00,0
-match,CS:GO,La Liga Season 4: Sur Pro Division - Apertura,0,Boca Juniors Gaming-New Pampas | 18.07 1:00,0
-match,CS:GO,La Liga Season 4: Sur Pro Division - Apertura,0,Malvinas-Furious | 18.07 2:00,0
-match,CS:GO,La Liga Season 4: Sur Pro Division - Apertura,0,Coscu Army-Wygers Argentina | 18.07 4:00,0
-league,CS:GO,Mythic Summer Cup 2021,4 матча,0,12
-match,CS:GO,Mythic Summer Cup 2021,0,Party Astronauts-Team Heretics | 17.07 23:00,0
-match,CS:GO,Mythic Summer Cup 2021,0,RBG-Secret Club | 17.07 23:00,0
-match,CS:GO,Mythic Summer Cup 2021,0,Recon 5-Third Impact | 17.07 23:00,0
-match,CS:GO,Mythic Summer Cup 2021,0,Triumph-Brazen | 17.07 23:00,0
+league,CS:GO,La Liga Season 4: Sur Pro Division - Apertura,1 матч,0,11
+match,CS:GO,La Liga Season 4: Sur Pro Division - Apertura,0,Coscu Army-Wygers Argentina | 18.07 3:30,0
+league,CS:GO,Mythic Summer Cup 2021,2 матча,0,12
+match,CS:GO,Mythic Summer Cup 2021,0,Party Astronauts-Recon 5 | 18.07 2:30,0
+match,CS:GO,Mythic Summer Cup 2021,0,Triumph-RBG | 18.07 2:30,0
 league,CS:GO,Prime League Summer 2021,1 матч,0,13
 match,CS:GO,Prime League Summer 2021,0,Foxed Gaming-SAWO | 21.07 19:00,0
 league,CS:GO,Redragon Latam Series 2021: Southern Cone,2 матча,0,14
@@ -80,52 +74,60 @@ match,CS:GO,WePlay Academy League,0,FURIA Academy-BIG Academy | Время по�
 match,CS:GO,WePlay Academy League,0,mouz NXT-Natus Vincere Junior | Время пока еще неизвестно,0
 match,CS:GO,WePlay Academy League,0,VP.Prodigy-Astralis Talent | Время пока еще неизвестно,0
 match,CS:GO,WePlay Academy League,0,mouz NXT-Astralis Talent | Время пока еще неизвестно,0
-league,Call of Duty,CDL,6 матчей,0,1
-match,Call of Duty,CDL,0,London Royal Ravens-New York Subliners | 17.07 22:00,0
-match,Call of Duty,CDL,0,Los Angeles Guerrillas-Florida Mutineers | 17.07 23:30,0
-match,Call of Duty,CDL,0,Seattle Surge-Toronto Ultra | 18.07 1:00,0
+league,Call of Duty,CDL,3 матча,0,1
 match,Call of Duty,CDL,0,Paris Legion-Los Angeles Thieves | 18.07 22:00,0
 match,Call of Duty,CDL,0,OpTic Chicago-Atlanta FaZe | 18.07 23:30,0
 match,Call of Duty,CDL,0,Minnesota RØKKR-Dallas Empire | 19.07 1:00,0
-league,Dota 2,BIX Invitationals Summer,7 матчей,0,1
+league,Dota 2,BIX Invitationals Summer,8 матчей,0,1
 match,Dota 2,BIX Invitationals Summer,0,The Prime-Team D | 18.07 9:00,0
 match,Dota 2,BIX Invitationals Summer,0,Team D-Team Mystery | 18.07 11:00,0
 match,Dota 2,BIX Invitationals Summer,0,OB.Neon-Moon Chasers | 18.07 13:00,0
 match,Dota 2,BIX Invitationals Summer,0,Execration-Army Geniuses | 18.07 15:00,0
+match,Dota 2,BIX Invitationals Summer,0,Execration-Team SMG | 19.07 9:00,0
 match,Dota 2,BIX Invitationals Summer,0,The Prime-Army Geniuses | 19.07 11:00,0
 match,Dota 2,BIX Invitationals Summer,0,The Prime-Team Mystery | 20.07 13:00,0
 match,Dota 2,BIX Invitationals Summer,0,OB.Neon-Army Geniuses | 20.07 15:00,0
-league,Dota 2,Claro Gaming Apu League Season 1,1 матч,0,2
+league,Dota 2,Champions League Season 2,5 матчей,0,2
+match,Dota 2,Champions League Season 2,0,AS Monaco Gambit-Spider Pigzs | 19.07 15:00,0
+match,Dota 2,Champions League Season 2,0,Nemiga Gaming-Fantastic Five | 19.07 18:00,0
+match,Dota 2,Champions League Season 2,0,Spider Pigzs-Fantastic Five | 20.07 18:00,0
+match,Dota 2,Champions League Season 2,0,PuckChamp-Winstrike | 21.07 18:00,0
+match,Dota 2,Champions League Season 2,0,Winstrike-Nemiga Gaming | 22.07 21:00,0
+league,Dota 2,Claro Gaming Apu League Season 1,1 матч,0,3
 match,Dota 2,Claro Gaming Apu League Season 1,0,Hokori-Team Unknown | 18.07 23:00,0
-league,Dota 2,Efusion League,2 матча,0,3
+league,Dota 2,EGL One Season 1,1 матч,0,4
+match,Dota 2,EGL One Season 1,0,Sinister5-Energy Esports | 18.07 15:00,0
+league,Dota 2,Efusion League,2 матча,0,5
 match,Dota 2,Efusion League,0,Team Mystery-Veteran | 18.07 7:30,0
 match,Dota 2,Efusion League,0,The Prime-Angel Alliance | 18.07 11:30,0
-league,Dota 2,I-League,2 матча,0,4
+league,Dota 2,Gamestars,1 матч,0,6
+match,Dota 2,Gamestars,0,V Gaming-Azimut | 18.07 18:00,0
+league,Dota 2,I-League,2 матча,0,7
 match,Dota 2,I-League,0,PSG.LGD-Team Aster | 21.07 12:00,0
 match,Dota 2,I-League,0,Vici Gaming-Invictus Gaming | 22.07 12:00,0
-league,Dota 2,LPL Pro League Season 2,3 матча,0,5
+league,Dota 2,LPL Pro League Season 2,4 матча,0,8
 match,Dota 2,LPL Pro League Season 2,0,The Prime-IAP | 18.07 4:15,0
 match,Dota 2,LPL Pro League Season 2,0,Soy milk-Science's Experiment | 18.07 6:15,0
 match,Dota 2,LPL Pro League Season 2,0,OB.Neon-Science's Experiment | 18.07 8:15,0
-league,Dota 2,PNX Invitationals,6 матчей,0,6
+match,Dota 2,LPL Pro League Season 2,0,Soy milk-shinigami | 18.07 10:00,0
+league,Dota 2,PNX Invitationals,7 матчей,0,9
 match,Dota 2,PNX Invitationals,0,Team D-LILGUN | 18.07 7:00,0
 match,Dota 2,PNX Invitationals,0,Galaxy Racer Esports-LILGUN | 18.07 9:00,0
 match,Dota 2,PNX Invitationals,0,OB.Neon-Galaxy Racer Esports | 18.07 11:00,0
 match,Dota 2,PNX Invitationals,0,LILGUN-OB.Neon | 19.07 7:00,0
+match,Dota 2,PNX Invitationals,0,Team D-Galaxy Racer Esports | 19.07 9:00,0
 match,Dota 2,PNX Invitationals,0,OB.Neon-Motivate.Trust Gaming | 19.07 11:00,0
 match,Dota 2,PNX Invitationals,0,Motivate.Trust Gaming-Galaxy Racer Esports | 20.07 9:00,0
-league,Dota 2,The International Results,1 матч,0,7
+league,Dota 2,ShenMo Esport Cup,2 матча,0,10
+match,Dota 2,ShenMo Esport Cup,0,KATSUDON-Selemene | 18.07 9:00,0
+match,Dota 2,ShenMo Esport Cup,0,Ghost Rider-RUSH B | 18.07 12:00,0
+league,Dota 2,The International Results,1 матч,0,11
 match,Dota 2,The International Results,0,Winner | 07.10 12:00,0
 league,League of Legends,Belgian League 2021 Summer,3 матча,0,1
 match,League of Legends,Belgian League 2021 Summer,0,Krc Genk-KV Mechelen Esports | 19.07 20:00,0
 match,League of Legends,Belgian League 2021 Summer,0,Ion Squad-Team 7AM | 19.07 21:00,0
 match,League of Legends,Belgian League 2021 Summer,0,Sector One-Starlan Gaming Club | 19.07 22:00,0
-league,League of Legends,CBLOL,20 матчей,0,2
-match,League of Legends,CBLOL,0,paiN-Rensga eSports | 17.07 18:00,0
-match,League of Legends,CBLOL,0,Flamengo-INTZ eSports | 17.07 20:00,0
-match,League of Legends,CBLOL,0,Vorax-FURIA | 17.07 20:00,0
-match,League of Legends,CBLOL,0,KaBuM!-Loud | 17.07 22:00,0
-match,League of Legends,CBLOL,0,Netshoes Miners-Red Canids | 17.07 23:00,0
+league,League of Legends,CBLOL,15 матчей,0,2
 match,League of Legends,CBLOL,0,FURIA-Flamengo | 18.07 18:00,0
 match,League of Legends,CBLOL,0,Rensga eSports-Vorax | 18.07 19:00,0
 match,League of Legends,CBLOL,0,Red Canids-KaBuM! | 18.07 21:00,0
@@ -136,11 +138,11 @@ match,League of Legends,CBLOL,0,Vorax-Loud | 24.07 19:00,0
 match,League of Legends,CBLOL,0,Flamengo-Netshoes Miners | 24.07 20:00,0
 match,League of Legends,CBLOL,0,FURIA-Rensga eSports | 24.07 21:00,0
 match,League of Legends,CBLOL,0,paiN-Red Canids | 24.07 22:00,0
-match,League of Legends,CBLOL,0,Netshoes Miners-KaBuM! | Время пока еще неизвестно,0
-match,League of Legends,CBLOL,0,Red Canids-Vorax | Время пока еще неизвестно,0
-match,League of Legends,CBLOL,0,Loud-FURIA | Время пока еще неизвестно,0
-match,League of Legends,CBLOL,0,Rensga eSports-Flamengo | Время пока еще неизвестно,0
-match,League of Legends,CBLOL,0,INTZ eSports-paiN | Время пока еще неизвестно,0
+match,League of Legends,CBLOL,0,Netshoes Miners-KaBuM! | 25.07 19:00,0
+match,League of Legends,CBLOL,0,Red Canids-Vorax | 25.07 20:00,0
+match,League of Legends,CBLOL,0,Loud-FURIA | 25.07 21:00,0
+match,League of Legends,CBLOL,0,Rensga eSports-Flamengo | 25.07 22:00,0
+match,League of Legends,CBLOL,0,INTZ eSports-paiN | 25.07 23:00,0
 league,League of Legends,CBLOL Academy,10 матчей,0,3
 match,League of Legends,CBLOL Academy,0,⁠paiN Gaming Academy-Rensga Academy | 20.07 23:00,0
 match,League of Legends,CBLOL Academy,0,Flamengo Academy-INTZ.Academy | 21.07 0:00,0
@@ -190,15 +192,13 @@ match,League of Legends,LCK Summer,0,Fredit BRION-DRX | 18.07 11:00,0
 match,League of Legends,LCK Summer,0,NS RedForce-KT Rolster | 18.07 14:00,0
 match,League of Legends,LCK Summer,0,Liiv SANDBOX-Gen.G | 22.07 11:00,0
 match,League of Legends,LCK Summer,0,Afreeca Freecs-T1 | 22.07 14:00,0
-match,League of Legends,LCK Summer,0,KT Rolster-Hanwha Life Esports | 23.07 11:15,0
+match,League of Legends,LCK Summer,0,KT Rolster-Hanwha Life Esports | 23.07 11:00,0
 match,League of Legends,LCK Summer,0,NS RedForce-Fredit BRION | 23.07 14:15,0
 match,League of Legends,LCK Summer,0,DRX-Damwon Gaming | 24.07 11:15,0
 match,League of Legends,LCK Summer,0,Liiv SANDBOX-T1 | 24.07 14:15,0
 match,League of Legends,LCK Summer,0,Gen.G-Afreeca Freecs | 25.07 11:00,0
 match,League of Legends,LCK Summer,0,Hanwha Life Esports-Fredit BRION | 25.07 14:00,0
-league,League of Legends,LCL Summer Season,6 матчей,0,9
-match,League of Legends,LCL Summer Season,0,One Breath Gaming-Vega Squadron | 17.07 17:00,0
-match,League of Legends,LCL Summer Season,0,CrowCrowd-Dragon Army | 17.07 18:00,0
+league,League of Legends,LCL Summer Season,4 матча,0,9
 match,League of Legends,LCL Summer Season,0,One Breath Gaming-RoX | 18.07 16:00,0
 match,League of Legends,LCL Summer Season,0,CTRL PLAY-Black Star Gaming | 18.07 17:00,0
 match,League of Legends,LCL Summer Season,0,CrowCrowd-Unicorns Of Love | 18.07 18:00,0
@@ -216,10 +216,7 @@ match,League of Legends,LCO 2021: Split 2,0,Legacy-Gravitas | 23.07 11:00,0
 match,League of Legends,LCO 2021: Split 2,0,Order-Mammoth | 23.07 12:00,0
 match,League of Legends,LCO 2021: Split 2,0,Chiefs Esports Club-Peace | 23.07 13:00,0
 match,League of Legends,LCO 2021: Split 2,0,Pentanet.GG-Dire Wolves | 23.07 14:00,0
-league,League of Legends,LCS Summer,24 матча,0,11
-match,League of Legends,LCS Summer,0,Cloud9-CLG | 18.07 0:00,0
-match,League of Legends,LCS Summer,0,Team Liquid-100 Thieves | 18.07 1:00,0
-match,League of Legends,LCS Summer,0,Immortals-Team SoloMid | 18.07 2:00,0
+league,League of Legends,LCS Summer,21 матч,0,11
 match,League of Legends,LCS Summer,0,Dignitas-Golden Guardians | 18.07 3:00,0
 match,League of Legends,LCS Summer,0,FlyQuest-Evil Geniuses | 18.07 4:00,0
 match,League of Legends,LCS Summer,0,Immortals-CLG | 18.07 23:00,0
@@ -232,21 +229,16 @@ match,League of Legends,LCS Summer,0,Evil Geniuses-Team SoloMid | 24.07 2:00,0
 match,League of Legends,LCS Summer,0,FlyQuest-Team Liquid | 24.07 3:00,0
 match,League of Legends,LCS Summer,0,CLG-Golden Guardians | 24.07 4:00,0
 match,League of Legends,LCS Summer,0,Dignitas-Immortals | 24.07 5:00,0
-match,League of Legends,LCS Summer,0,Team SoloMid-Golden Guardians | Время пока еще неизвестно,0
-match,League of Legends,LCS Summer,0,Evil Geniuses-Immortals | Время пока еще неизвестно,0
-match,League of Legends,LCS Summer,0,FlyQuest-Cloud9 | Время пока еще неизвестно,0
+match,League of Legends,LCS Summer,0,Team SoloMid-Golden Guardians | 25.07 0:00,0
+match,League of Legends,LCS Summer,0,Evil Geniuses-Immortals | 25.07 1:00,0
+match,League of Legends,LCS Summer,0,FlyQuest-Cloud9 | 25.07 2:00,0
 match,League of Legends,LCS Summer,0,Dignitas-Team Liquid | Время пока еще неизвестно,0
 match,League of Legends,LCS Summer,0,100 Thieves-CLG | Время пока еще неизвестно,0
 match,League of Legends,LCS Summer,0,Golden Guardians-Team Liquid | Время пока еще неизвестно,0
 match,League of Legends,LCS Summer,0,CLG-Evil Geniuses | Время пока еще неизвестно,0
 match,League of Legends,LCS Summer,0,Cloud9-Team SoloMid | Время пока еще неизвестно,0
 match,League of Legends,LCS Summer,0,Immortals-100 Thieves | Время пока еще неизвестно,0
-league,League of Legends,LEC 2021 Summer,13 матчей,0,12
-match,League of Legends,LEC 2021 Summer,0,SK Gaming-Excel Esports | 17.07 18:00,0
-match,League of Legends,LEC 2021 Summer,0,Schalke 04 Esports-Misfits | 17.07 19:00,0
-match,League of Legends,LEC 2021 Summer,0,Team Vitality-MAD Lions | 17.07 20:00,0
-match,League of Legends,LEC 2021 Summer,0,Team Rogue-Astralis | 17.07 21:00,0
-match,League of Legends,LEC 2021 Summer,0,G2 Esports-Fnatic | 17.07 22:00,0
+league,League of Legends,LEC 2021 Summer,8 матчей,0,12
 match,League of Legends,LEC 2021 Summer,0,Team Vitality-Misfits | 23.07 20:00,0
 match,League of Legends,LEC 2021 Summer,0,MAD Lions-Astralis | 23.07 21:00,0
 match,League of Legends,LEC 2021 Summer,0,G2 Esports-SK Gaming | 23.07 22:00,0
@@ -255,7 +247,12 @@ match,League of Legends,LEC 2021 Summer,0,Schalke 04 Esports-Astralis | 24.07 19
 match,League of Legends,LEC 2021 Summer,0,SK Gaming-Fnatic | 24.07 20:00,0
 match,League of Legends,LEC 2021 Summer,0,G2 Esports-Misfits | 24.07 21:00,0
 match,League of Legends,LEC 2021 Summer,0,Team Rogue-MAD Lions | 24.07 22:00,0
-league,League of Legends,LJL Summer,16 матчей,0,13
+league,League of Legends,LFL Summer,4 матча,0,13
+match,League of Legends,LFL Summer,0,Misfits Premier-BDS Esport | 22.07 19:00,0
+match,League of Legends,LFL Summer,0,IziDream-Gamers Origin | 22.07 20:00,0
+match,League of Legends,LFL Summer,0,LDLC-Solary | 22.07 21:00,0
+match,League of Legends,LFL Summer,0,Vitality.Bee-Karmine Corp | 22.07 22:00,0
+league,League of Legends,LJL Summer,16 матчей,0,14
 match,League of Legends,LJL Summer,0,Rascal Jester-Fukuoka SoftBank Hawks gaming | 24.07 7:00,0
 match,League of Legends,LJL Summer,0,Fukuoka SoftBank Hawks gaming-Crest Gaming Act | 24.07 8:15,0
 match,League of Legends,LJL Summer,0,V3 Esports-Crest Gaming Act | 24.07 9:30,0
@@ -272,11 +269,7 @@ match,League of Legends,LJL Summer,0,Crest Gaming Act-AXIZ | 25.07 12:00,0
 match,League of Legends,LJL Summer,0,DetonatioN Gaming-Crest Gaming Act | 25.07 13:15,0
 match,League of Legends,LJL Summer,0,Sengoku Gaming-Rascal Jester | 25.07 14:30,0
 match,League of Legends,LJL Summer,0,Rascal Jester-DetonatioN Gaming | Время пока еще неизвестно,0
-league,League of Legends,LLA,14 матчей,0,14
-match,League of Legends,LLA,0,Kaos Latin Gamers-All Knights | 18.07 1:00,0
-match,League of Legends,LLA,0,XTEN Esports-Furious | 18.07 1:00,0
-match,League of Legends,LLA,0,Isurus-Infinity eSports | 18.07 2:00,0
-match,League of Legends,LLA,0,Rainbow7-Estral E-Sports | 18.07 3:00,0
+league,League of Legends,LLA,10 матчей,0,15
 match,League of Legends,LLA,0,Rainbow7-Kaos Latin Gamers | 19.07 1:00,0
 match,League of Legends,LLA,0,XTEN Esports-Infinity eSports | 19.07 2:00,0
 match,League of Legends,LLA,0,Furious-Estral E-Sports | 19.07 3:00,0
@@ -287,7 +280,7 @@ match,League of Legends,LLA,0,Kaos Latin Gamers-Furious | 25.07 3:00,0
 match,League of Legends,LLA,0,Rainbow7-All Knights | 25.07 4:00,0
 match,League of Legends,LLA,0,XTEN Esports-Estral E-Sports | 26.07 1:00,0
 match,League of Legends,LLA,0,Kaos Latin Gamers-Infinity eSports | 26.07 2:00,0
-league,League of Legends,LPL Summer,19 матчей,0,15
+league,League of Legends,LPL Summer,19 матчей,0,16
 match,League of Legends,LPL Summer,0,LNG Esports-OMG | 18.07 10:00,0
 match,League of Legends,LPL Summer,0,Suning Gaming-JD | 18.07 12:00,0
 match,League of Legends,LPL Summer,0,Edward Gaming-Royal Never Give Up | 18.07 14:00,0
@@ -307,7 +300,7 @@ match,League of Legends,LPL Summer,0,Team We-Edward Gaming | Время пока
 match,League of Legends,LPL Summer,0,LNG Esports-LGD Gaming | Время пока еще неизвестно,0
 match,League of Legends,LPL Summer,0,OMG-Victory Five | Время пока еще неизвестно,0
 match,League of Legends,LPL Summer,0,Top Esports-Invictus Gaming | Время пока еще неизвестно,0
-league,League of Legends,LPLOL Summer,8 матчей,0,16
+league,League of Legends,LPLOL Summer,8 матчей,0,17
 match,League of Legends,LPLOL Summer,0,Karma Clan Esports-EGN Esports | 19.07 22:00,0
 match,League of Legends,LPLOL Summer,0,For The Win-OFFSET | 19.07 23:00,0
 match,League of Legends,LPLOL Summer,0,GTZ Bulls Esports-WHITE DRAGONS | 20.07 0:00,0
@@ -316,7 +309,7 @@ match,League of Legends,LPLOL Summer,0,Boavista-Karma Clan Esports | 20.07 22:00
 match,League of Legends,LPLOL Summer,0,EFIVE Esports-GTZ Bulls Esports | 20.07 23:00,0
 match,League of Legends,LPLOL Summer,0,OFFSET-WHITE DRAGONS | 21.07 1:00,0
 match,League of Legends,LPLOL Summer,0,EGN Esports-For The Win | 22.07 0:00,0
-league,League of Legends,LVP Superliga,10 матчей,0,17
+league,League of Legends,LVP Superliga,10 матчей,0,18
 match,League of Legends,LVP Superliga,0,S2V Esports-G2 Arctic | 19.07 19:00,0
 match,League of Legends,LVP Superliga,0,Movistar Riders-Cream Real Betis | 19.07 20:00,0
 match,League of Legends,LVP Superliga,0,MAD Lions Madrid-eMonkeyz | 19.07 21:00,0
@@ -327,21 +320,25 @@ match,League of Legends,LVP Superliga,0,UCAM Esports Club-eMonkeyz | 22.07 20:00
 match,League of Legends,LVP Superliga,0,Queso-Movistar Riders | 22.07 21:00,0
 match,League of Legends,LVP Superliga,0,MAD Lions Madrid-BCN Squad | 22.07 22:00,0
 match,League of Legends,LVP Superliga,0,Vodafone Giants-S2V Esports | 22.07 23:00,0
-league,League of Legends,NA Academy,6 матчей,0,18
-match,League of Legends,NA Academy,0,Evil Geniuses Academy-Dignitas Academy | 21.07 3:00,0
+league,League of Legends,NA Academy,10 матчей,0,19
+match,League of Legends,NA Academy,0,Evil Geniuses Academy-Dignitas Academy | 21.07 23:00,0
+match,League of Legends,NA Academy,0,Liquid Academy-100 Thieves Academy | 21.07 23:00,0
 match,League of Legends,NA Academy,0,Golden Guardians Academy-Cloud9 Academy | 22.07 1:00,0
 match,League of Legends,NA Academy,0,Immortals Academy-FlyQuest Academy | 22.07 1:00,0
+match,League of Legends,NA Academy,0,Team SoloMid Academy-CLG Academy | 22.07 3:00,0
 match,League of Legends,NA Academy,0,Golden Guardians Academy-100 Thieves Academy | 22.07 23:00,0
 match,League of Legends,NA Academy,0,Immortals Academy-Evil Geniuses Academy | 22.07 23:00,0
+match,League of Legends,NA Academy,0,FlyQuest Academy-CLG Academy | 23.07 1:00,0
+match,League of Legends,NA Academy,0,Team SoloMid Academy-Liquid Academy | 23.07 1:00,0
 match,League of Legends,NA Academy,0,Dignitas Academy-Cloud9 Academy | 23.07 3:00,0
-league,League of Legends,NLC Summer,6 матчей,0,19
+league,League of Legends,NLC Summer,6 матчей,0,20
 match,League of Legends,NLC Summer,0,Resolve-Singularity | 20.07 18:00,0
 match,League of Legends,NLC Summer,0,Granit-Dusty | 20.07 19:00,0
 match,League of Legends,NLC Summer,0,Tricked-BT Excel | 20.07 20:00,0
 match,League of Legends,NLC Summer,0,Galaxy Racer Esports-GODSENT | 20.07 21:00,0
 match,League of Legends,NLC Summer,0,Fnatic Rising-Nordavind | 20.07 22:00,0
 match,League of Legends,NLC Summer,0,KOVA Esports-Riddle Esports | 20.07 23:00,0
-league,League of Legends,PCS Summer,17 матчей,0,20
+league,League of Legends,PCS Summer,17 матчей,0,21
 match,League of Legends,PCS Summer,0,PSG Talon-Impunity | 18.07 11:00,0
 match,League of Legends,PCS Summer,0,Machi ESports-BOOM | 18.07 12:00,0
 match,League of Legends,PCS Summer,0,PSG Talon-Berjaya Dragons | 18.07 13:00,0
@@ -359,11 +356,11 @@ match,League of Legends,PCS Summer,0,Machi ESports-J Team | 25.07 12:00,0
 match,League of Legends,PCS Summer,0,Impunity-Hong Kong Attitude | 25.07 13:00,0
 match,League of Legends,PCS Summer,0,J Team-Alpha eSports | Время пока еще неизвестно,0
 match,League of Legends,PCS Summer,0,Berjaya Dragons-Liyab Esports | Время пока еще неизвестно,0
-league,League of Legends,PG Nationals Summer 2021,3 матча,0,21
+league,League of Legends,PG Nationals Summer 2021,3 матча,0,22
 match,League of Legends,PG Nationals Summer 2021,0,MACKO Esports-Axolotl | 20.07 20:00,0
 match,League of Legends,PG Nationals Summer 2021,0,OutPlayed-Gaia Esports | 21.07 20:00,0
 match,League of Legends,PG Nationals Summer 2021,0,Samsung MorningStars-GG&Esports | 22.07 20:00,0
-league,League of Legends,Prime League Summer,15 матчей,0,22
+league,League of Legends,Prime League Summer,15 матчей,0,23
 match,League of Legends,Prime League Summer,0,SK Gaming Prime-GamerLegion | 20.07 19:00,0
 match,League of Legends,Prime League Summer,0,EW EINFACH E-SPORTS-Schalke 04.Evo | 20.07 20:00,0
 match,League of Legends,Prime League Summer,0,Unicorns of Love SE-Euronics Gaming | 20.07 21:00,0
@@ -379,10 +376,7 @@ match,League of Legends,Prime League Summer,0,EW EINFACH E-SPORTS-GamerLegion | 
 match,League of Legends,Prime League Summer,0,Euronics Gaming-mousesports | 22.07 21:00,0
 match,League of Legends,Prime League Summer,0,Unicorns of Love SE-Schalke 04.Evo | 22.07 22:00,0
 match,League of Legends,Prime League Summer,0,PENTA-Wave Esports | 22.07 23:00,0
-league,League of Legends,TCL,16 матчей,0,23
-match,League of Legends,TCL,0,NASR Turkey-Dark Passage | 17.07 16:45,0
-match,League of Legends,TCL,0,Istanbul Wild Cats-Galakticos | 17.07 17:00,0
-match,League of Legends,TCL,0,Galatasaray-Besiktas | 17.07 18:00,0
+league,League of Legends,TCL,13 матчей,0,24
 match,League of Legends,TCL,0,Team Aurora-Fenerbahce | 18.07 14:00,0
 match,League of Legends,TCL,0,Besiktas-NASR Turkey | 18.07 15:00,0
 match,League of Legends,TCL,0,Galatasaray-5 Ronin | 18.07 16:00,0
@@ -395,14 +389,14 @@ match,League of Legends,TCL,0,Galakticos-Besiktas | 24.07 17:00,0
 match,League of Legends,TCL,0,5 Ronin-Galakticos | 25.07 14:00,0
 match,League of Legends,TCL,0,Galatasaray-SuperMassive | 25.07 16:00,0
 match,League of Legends,TCL,0,Besiktas-Dark Passage | 25.07 17:00,0
-match,League of Legends,TCL,0,Team Aurora-Istanbul Wild Cats | Время пока еще неизвестно,0
-league,League of Legends,TCL Academy,5 матчей,0,24
+match,League of Legends,TCL,0,Team Aurora-Istanbul Wild Cats | 25.07 18:00,0
+league,League of Legends,TCL Academy,5 матчей,0,25
 match,League of Legends,TCL Academy,0,NASR Academy-5 Ronin Academy | 22.07 17:00,0
 match,League of Legends,TCL Academy,0,SuperMassive Blaze Academy-AURORA Academy | 22.07 18:00,0
 match,League of Legends,TCL Academy,0,İstanbul Wild Cats Academy-Dark Passage Academy | 22.07 19:00,0
 match,League of Legends,TCL Academy,0,Galakticos Academy-Besiktas Academy | 22.07 20:00,0
 match,League of Legends,TCL Academy,0,Galatasaray Academy-Fenerbahce Academy | 22.07 21:00,0
-league,League of Legends,UKLC Summer,8 матчей,0,25
+league,League of Legends,UKLC Summer,8 матчей,0,26
 match,League of Legends,UKLC Summer,0,MnM Gaming-Viperio | 18.07 20:00,0
 match,League of Legends,UKLC Summer,0,Lucent Esports-Resolve.A | 18.07 21:00,0
 match,League of Legends,UKLC Summer,0,Bulldog Esports-Enclave Gaming | 18.07 22:00,0
@@ -411,7 +405,7 @@ match,League of Legends,UKLC Summer,0,Viperio-Lucent Esports | 19.07 20:00,0
 match,League of Legends,UKLC Summer,0,Enclave Gaming-MnM Gaming | 19.07 21:00,0
 match,League of Legends,UKLC Summer,0,Resolve.A-NVision | 19.07 22:00,0
 match,League of Legends,UKLC Summer,0,Bulldog Esports-London eSports | 19.07 23:00,0
-league,League of Legends,Ultraliga,7 матчей,0,26
+league,League of Legends,Ultraliga,7 матчей,0,27
 match,League of Legends,Ultraliga,0,Illuminar-Team ESCA Gaming | 20.07 18:30,0
 match,League of Legends,Ultraliga,0,K1CK-AGO ROGUE | 20.07 18:30,0
 match,League of Legends,Ultraliga,0,⁠Komil&Friends-Gentleman's Gaming | 20.07 20:30,0
@@ -423,6 +417,14 @@ league,Overwatch,Contenders 2021 Season 2: China,1 матч,0,1
 match,Overwatch,Contenders 2021 Season 2: China,0,Bilibili Gaming-T1w Esports Club | 22.07 11:00,0
 league,Overwatch,OWL Summer Showdown,1 матч,0,2
 match,Overwatch,OWL Summer Showdown,0,Shanghai Dragons-Chengdu Hunters | 18.07 4:00,0
+league,Quake Champions,QPL,7 матчей,0,1
+match,Quake Champions,QPL,0,GaRpY-Spart1e | 18.07 17:00,0
+match,Quake Champions,QPL,0,ZenAku-Effortless | 18.07 18:00,0
+match,Quake Champions,QPL,0,dramiS-sib | 18.07 19:00,0
+match,Quake Champions,QPL,0,Raisy-K1llsen | 18.07 20:00,0
+match,Quake Champions,QPL,0,cha1n-psygib | 18.07 21:00,0
+match,Quake Champions,QPL,0,cYpheR-BaSe | 18.07 22:00,0
+match,Quake Champions,QPL,0,rapha-DaHanG | 18.07 23:00,0
 league,Rainbow Six,APAC North Division Stage 2,4 матча,0,1
 match,Rainbow Six,APAC North Division Stage 2,0,T1-FAV gaming | 21.07 13:30,0
 match,Rainbow Six,APAC North Division Stage 2,0,Cloud9-Talon Esports | 21.07 15:00,0
@@ -432,11 +434,7 @@ league,Rainbow Six,APAC South Division Stage 2,3 матча,0,2
 match,Rainbow Six,APAC South Division Stage 2,0,Q-Confirm-Wildcard Gaming | 22.07 10:30,0
 match,Rainbow Six,APAC South Division Stage 2,0,Chiefs Esports Club-7th heaven | 22.07 12:00,0
 match,Rainbow Six,APAC South Division Stage 2,0,Order-PIT Knights | 22.07 13:30,0
-league,Rainbow Six,Brasileirao,9 матчей,0,3
-match,Rainbow Six,Brasileirao,0,FURIA-W7M | 17.07 19:00,0
-match,Rainbow Six,Brasileirao,0,Team Liquid-Team One | 17.07 20:00,0
-match,Rainbow Six,Brasileirao,0,Black Dragons-MiBR | 17.07 21:00,0
-match,Rainbow Six,Brasileirao,0,Ninjas in Pyjamas-INTZ eSports | 17.07 22:00,0
+league,Rainbow Six,Brasileirao,5 матчей,0,3
 match,Rainbow Six,Brasileirao,0,FaZe Clan-FURIA | 18.07 19:00,0
 match,Rainbow Six,Brasileirao,0,INTZ eSports-W7M | 18.07 20:00,0
 match,Rainbow Six,Brasileirao,0,Ninjas in Pyjamas-Santos | 18.07 21:00,0
@@ -469,18 +467,21 @@ match,Rainbow Six,Oceanic Nationals,0,Team Bliss-Chiefs Esports Club | 23.07 14:
 match,Rainbow Six,Oceanic Nationals,0,LFO-rhythm | 23.07 15:00,0
 league,Rainbow Six,Operation League Taiwan,1 матч,0,10
 match,Rainbow Six,Operation League Taiwan,0,7th heaven-Velocity9 | 18.07 8:00,0
-league,Rainbow Six,Operation Thailand,4 матча,0,11
-match,Rainbow Six,Operation Thailand,0,Q-Confirm-eLevate | 17.07 17:00,0
+league,Rainbow Six,Operation Thailand,3 матча,0,11
 match,Rainbow Six,Operation Thailand,0,EiEi E-sport-Leibniz Esport | 18.07 15:00,0
 match,Rainbow Six,Operation Thailand,0,Intense-200 Degrees | 18.07 16:00,0
 match,Rainbow Six,Operation Thailand,0,Coraxus Esport-Yaksar Gaming | 18.07 17:00,0
 league,Rainbow Six,UK and Ireland Nationals Season 3,2 матча,0,12
 match,Rainbow Six,UK and Ireland Nationals Season 3,0,TENSTAR-MnM Gaming | 22.07 21:45,0
 match,Rainbow Six,UK and Ireland Nationals Season 3,0,Victus-Cowana Gaming | 22.07 23:00,0
-league,StarCraft II,Global StarCraft II League,1 матч,0,1
+league,StarCraft II,Alpha,1 матч,0,1
+match,StarCraft II,Alpha,0,Clem-trap | 18.07 12:00,0
+league,StarCraft II,Global StarCraft II League,2 матча,0,2
 match,StarCraft II,Global StarCraft II League,0,Bunny-trap | 19.07 12:30,0
-league,StarCraft II,PCForMan,1 матч,0,2
-match,StarCraft II,PCForMan,0,Maru-Gumiho | 17.07 17:00,0
+match,StarCraft II,Global StarCraft II League,0,Dark-PartinG | 22.07 12:30,0
+league,StarCraft II,PCForMan,2 матча,0,3
+match,StarCraft II,PCForMan,0,ByuN-DongRaeGu | 18.07 14:00,0
+match,StarCraft II,PCForMan,0,Zoun-Maru | 18.07 15:00,0
 league,Valorant,Champions Tour 2021: Korea Stage 3 Challengers,6 матчей,0,1
 match,Valorant,Champions Tour 2021: Korea Stage 3 Challengers,0,Vision Strikers-GOMA | 18.07 9:00,0
 match,Valorant,Champions Tour 2021: Korea Stage 3 Challengers,0,F4Q-Noble Experience | 18.07 12:00,0
@@ -488,23 +489,17 @@ match,Valorant,Champions Tour 2021: Korea Stage 3 Challengers,0,APE Prince-Mujig
 match,Valorant,Champions Tour 2021: Korea Stage 3 Challengers,0,Damwon Gaming-RYU Gaming | 22.07 12:00,0
 match,Valorant,Champions Tour 2021: Korea Stage 3 Challengers,0,GochuGaru-Alpha Six Gaming | 23.07 9:00,0
 match,Valorant,Champions Tour 2021: Korea Stage 3 Challengers,0,World Game Star-Team Unknown | 23.07 9:00,0
-league,Valorant,Champions Tour Brazil Stage 3: Challengers 2,4 матча,0,2
-match,Valorant,Champions Tour Brazil Stage 3: Challengers 2,0,Team Vikings Gaming-Stars Horizon | 17.07 23:00,0
-match,Valorant,Champions Tour Brazil Stage 3: Challengers 2,0,FURIA-NOORG2.0 | 18.07 0:00,0
-match,Valorant,Champions Tour Brazil Stage 3: Challengers 2,0,Gamelanders Blue-INGAMING Esports | 18.07 1:00,0
-match,Valorant,Champions Tour Brazil Stage 3: Challengers 2,0,Sharks Esports-SLICK | 18.07 2:00,0
+league,Valorant,ImbaTV Fearless Invitational Cup,2 матча,0,2
+match,Valorant,ImbaTV Fearless Invitational Cup,0,Totoro Gaming-Tales of Eastern | 18.07 12:00,0
+match,Valorant,ImbaTV Fearless Invitational Cup,0,KONE-Team Weibo | 18.07 15:00,0
 league,Valorant,Liga Movistar - Fibra Pro Shot,1 матч,0,3
 match,Valorant,Liga Movistar - Fibra Pro Shot,0,Kaos Latin Gamers-Furious | 20.07 4:00,0
-league,Valorant,PAX Arena - Almost Pro Open 2021,1 матч,0,4
-match,Valorant,PAX Arena - Almost Pro Open 2021,0,mozzymembas-Goodfellas | 17.07 21:30,0
-league,WarCraft III,DreamHack Qualifier,8 матчей,0,1
-match,WarCraft III,DreamHack Qualifier,0,CoopeR-Spiral | 17.07 18:00,0
-match,WarCraft III,DreamHack Qualifier,0,Dise-Darkness | 17.07 18:00,0
-match,WarCraft III,DreamHack Qualifier,0,Kevin-Biko | 17.07 18:00,0
-match,WarCraft III,DreamHack Qualifier,0,Paladyn-Neytpoh | 17.07 18:00,0
-match,WarCraft III,DreamHack Qualifier,0,robinson-Starbuck | 17.07 18:00,0
-match,WarCraft III,DreamHack Qualifier,0,Starshaped-Hankk | 17.07 18:00,0
-match,WarCraft III,DreamHack Qualifier,0,TeRRoR-Ente | 17.07 18:00,0
-match,WarCraft III,DreamHack Qualifier,0,TGW-Deathnote | 17.07 18:00,0
-league,WarCraft III,info League,1 матч,0,2
+league,WarCraft III,DreamHack Qualifier,3 матча,0,1
+match,WarCraft III,DreamHack Qualifier,0,Biko-Hankk | 18.07 18:00,0
+match,WarCraft III,DreamHack Qualifier,0,Deathnote-Paladyn | 18.07 18:00,0
+match,WarCraft III,DreamHack Qualifier,0,TeRRoR-Darkness | 18.07 18:00,0
+league,WarCraft III,Gold League,2 матча,0,2
+match,WarCraft III,Gold League,0,Lyn-Colorful | 18.07 11:00,0
+match,WarCraft III,Gold League,0,Moon-15sui | 18.07 13:00,0
+league,WarCraft III,info League,1 матч,0,3
 match,WarCraft III,info League,0,uMaD Gaming-Playing-Ducks | 18.07 19:30,0
